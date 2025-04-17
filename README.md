@@ -18,6 +18,8 @@
  * Update with project allocation/holidays.
  * 8-hour day format (8 hours = full day, 4 hours = half day).
  * Leave blank if on the bench.
+ * <img width="451" alt="image" src="https://github.com/user-attachments/assets/0ef76d4e-c4fb-4fc3-8afb-2647480c647c" />
+
 
 **When do I need to submit my timesheet?**
 
