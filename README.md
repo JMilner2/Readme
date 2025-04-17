@@ -13,6 +13,8 @@
  * 1 for billable day (bench code or project code).
  * 0 for sick leave or annual leave.
  * To correct errors: Withdraw or Actions > Revise.
+ * <img width="454" alt="image" src="https://github.com/user-attachments/assets/58167104-2439-4cfe-beeb-32abbcbc18fb" />
+
 * **STAFFIT:**
  * Used for business forecasting.
  * Update with project allocation/holidays.
